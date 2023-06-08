@@ -10,8 +10,7 @@
 | Search & Discover | - | Easily search for security issues across all workloads and infrastructure in your organization <br> Visually discover risks across your organization |
 | User management | - | Multi account <br> Granular permissions (RBAC) <br> Single Sign On (SSO) |
 | Support | Some skills required for setup and integration <br> Best effort community support | Personal onboarding by Aqua Customer SuccessSLA backed professional support |
-| Scalability & Availability | Single scan at a time
- | Centralized scanning service supports concurrent scans efficiently <br> Highly available production grade architecture |
+| Scalability & Availability | Single scan at a time | Centralized scanning service supports concurrent scans efficiently <br> Highly available production grade architecture |
 
 ## Vulnerability scanning
 
