@@ -13,7 +13,7 @@ If you'd like to contact Aqua or request a demo, please use this form: <https://
 | Interface | CLI tool | CLI tool <br> Enterprise-grade web application <br> SaaS or on-prem |
 | Search & Discover | - | Easily search for security issues across all workloads and infrastructure in your organization <br> Visually discover risks across your organization |
 | User management | - | Multi account <br> Granular permissions (RBAC) <br> Single Sign On (SSO) |
-| Support | Some skills required for setup and integration <br> Best effort community support | Personal onboarding by Aqua Customer SuccessSLA backed professional support |
+| Support | Some skills required for setup and integration <br> Best effort community support | Personal onboarding by Aqua Customer Success <br> SLA backed professional support |
 | Scalability & Availability | Single scan at a time | Centralized scanning service supports concurrent scans efficiently <br> Highly available production grade architecture |
 
 ## Vulnerability scanning
@@ -62,7 +62,7 @@ If you'd like to contact Aqua or request a demo, please use this form: <https://
 
 | Feature | Trivy OSS | Aqua |
 | --- | --- | --- |
-| Infrastructure as Code (IaC) | Many popular languages as detailed [here](../docs/scanner/misconfiguration/policy/builtin.md) | Same as Trivy |
+| Infrastructure as Code (IaC) | Many popular languages as detailed [here](https://aquasecurity.github.io/trivy/v0.42/docs/scanner/misconfiguration/policy/builtin/) | Same as Trivy |
 | Checks customization | Create custom checks with Rego | Create custom checks in no-code interface <br> Customize existing checks with organizational preferences |
 | Cloud scanning | AWS, Azure, GCP | AWS, Azure, GCP, Alibaba Cloud, Oracle Cloud |
 | Compliance frameworks | CIS, vendor guides | More than 25 compliance programs |
