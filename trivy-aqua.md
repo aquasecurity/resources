@@ -1,6 +1,10 @@
 # Aqua Security is the home of Trivy
 
-[Trivy](https://github.com/aquasecurity/trivy), the industry's leading open source security scanner is proudly maintained by Aqua Security. If you like Trivy, you will love Aqua, which builds on top of Trivy to provide even more enhanced capabilities for a complete security management offering.
+[Trivy](https://github.com/aquasecurity/trivy), the industry's leading open source security scanner is proudly maintained by Aqua Security.  
+If you liked Trivy, you will love Aqua which builds on top of Trivy to provide even more enhanced capabilities for a complete security management offering.  
+In this page you can find a high level comparison table specific to Trivy users.
+In addition check out the <https://aquasec.com> website for more information about our products and services.
+If you'd like to contact Aqua or request a demo, please use this form: <https://www.aquasec.com/demo>
 
 ## User experience
 
