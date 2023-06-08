@@ -19,8 +19,7 @@
 | Vulnerabilities sources | Based on open source vulnerability feeds | Based on open source and commercial vulnerability feeds |
 | New Vulnerabilities SLA | No SLA | Commercial level SLA |
 | Vulnerability management | Manually ignore specific vulnerabilities by ID or property | Advanced vulnerability management solution <br> Vulnerability tracking and suppression <br> Incident lifecycle management |
-| Vulnerability prioritization | Manually triage by severity
- | Multiple prioritization tools:  <br> Accessibility of the affected resources <br> Exploitability of the vulnerability <br> Open Source packages health and trustworthiness score <br> Affected image layers |
+| Vulnerability prioritization | Manually triage by severity | Multiple prioritization tools:  <br> Accessibility of the affected resources <br> Exploitability of the vulnerability <br> Open Source packages health and trustworthiness score <br> Affected image layers |
 | Contextual vulnerabilities | - | Reduce irrelevant vulnerabilities based on environmental factors (e.g. Spring4Shell not relevant due to JDK version) |
 | Compiled binaries | Find embedded dependencies in Go, Rust binaries <br> Find SBOM by hash in public Sigstore | In addition to identifying binary by hash, identifies popular applications by flexible heuristics |
 
