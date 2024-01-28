@@ -22,10 +22,12 @@ If you'd like to contact Aqua or request a demo, please use this form: <https://
 | --- | --- | --- |
 | Vulnerabilities sources | Based on open source vulnerability feeds | Based on open source and commercial vulnerability feeds |
 | New Vulnerabilities SLA | No SLA | Commercial level SLA |
+| Package managers | Find packages in lock files | Find packages in lock files or installed packages on disk |
 | Vulnerability management | Manually ignore specific vulnerabilities by ID or property | Advanced vulnerability management solution <br> Vulnerability tracking and suppression <br> Incident lifecycle management |
 | Vulnerability prioritization | Manually triage by severity | Multiple prioritization tools:  <br> Accessibility of the affected resources <br> Exploitability of the vulnerability <br> Open Source packages health and trustworthiness score <br> Affected image layers |
+| Reachability analisys | - | Analyze source code to eliminate vulnerabilities of unused dependencies |
 | Contextual vulnerabilities | - | Reduce irrelevant vulnerabilities based on environmental factors (e.g. Spring4Shell not relevant due to JDK version) |
-| Compiled binaries | Find embedded dependencies in Go, Rust binaries <br> Find SBOM by hash in public Sigstore | In addition to identifying binary by hash, identifies popular applications by flexible heuristics |
+| Compiled binaries | Find embedded dependencies in Go and Rust binaries <br> Find SBOM by hash in public Sigstore | In addition, identifies popular applications by huristics |
 
 ## Container scanning
 
@@ -42,6 +44,7 @@ If you'd like to contact Aqua or request a demo, please use this form: <https://
 | --- | --- | --- |
 | Malware scanning | - | Scan container images for malware |
 | Sandbox scanning | - | Use DTA (Dynamic threat analysis) to run and test container images' behavior to detect sophisticated threats |
+| SAST (code scanning) | - | Analyze source code for security issues and vulnerabilities |
 
 ## Policy and enforcement
 
